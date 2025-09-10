@@ -39,7 +39,7 @@ Power BI → Interactive dashboard design & storytelling
 🙌 Feedback & Collaboration
 
 I’m always open to suggestions, improvements, or collaboration ideas!
-📩 Connect with me on LinkedIn
- | 📧 Email: your-email
+📩 Connect with me on LinkedIn :https://www.linkedin.com/in/bhandhavya-k-876586200
+ | 📧 Email:Bhandhavya97@gmail.com
 
 ✨ With this project, I showcased how data science + BI tools can turn recharge data into strategic insights for the telecom industry.
